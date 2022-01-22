@@ -2,7 +2,6 @@
 - 👀 I’m interested in UX design
 - 🌱 I’m currently learning bootstap
 - 💞️ I’m looking to collaborate on beginner projects
-- 📫 I can be reached on twitter @BRadarTech
 
 <!---
 sondsee/sondsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
