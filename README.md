@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sondsee
-- 👀 I’m interested in UX design
-- 🌱 I’m currently learning bootstap
+- 👀 I’m interested in design
+- 🌱 I’m currently learning to build games
 - 💞️ I’m looking to collaborate on beginner projects
 
 <!---
